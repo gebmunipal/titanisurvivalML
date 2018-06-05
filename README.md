@@ -1,4 +1,4 @@
-Project Title
+Titanic Survival Prediction with Machine Learning
 
 Project is to predict the survival of Titanic with some sample data on Kaggle
 
@@ -14,8 +14,6 @@ Copy the notebook and data and start running. Vola
 
 Running the tests
 Yet to add the tets
-
-
 
 Built With
 
